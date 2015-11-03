@@ -11,7 +11,7 @@
     
 ### 注:
 * 加星号*的为重点推荐
-* 脑图地址: [http://naotu.baidu.com/file/f1f87890d2b68684ed900ff639185ff0?token=1537e968b07153a4](http://naotu.baidu.com/file/f1f87890d2b68684ed900ff639185ff0?token=1537e968b07153a4 "点我打开")
+* 脑图地址: [戳这里](http://naotu.baidu.com/file/f1f87890d2b68684ed900ff639185ff0?token=1537e968b07153a4)
 
 ------------------------------------------------------
 ## 图片相关
