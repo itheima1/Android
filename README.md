@@ -23,7 +23,7 @@ Name | Repository | Desciption
 [*Glide](https://github.com/bumptech/glide) | Google推荐的图片加载和缓存的库 | 专注于平滑滚动时的流畅加载, Google开源项目, 2014年Google I/O 上被推荐
 
 ### 图片加载相关博文
-##### [picasso-强大的Android图片下载缓存库](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2014/0731/1639.html)
-##### [Android DiskLruCache源码解析硬盘缓存的绝佳方案](http://blog.csdn.net/lmj623565791/article/details/47251585)
+##### [Picasso-强大的Android图片下载缓存库](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2014/0731/1639.html)
+##### [Android的媒体管理框架:Glide 3.0发布](http://www.infoq.com/cn/news/2014/09/android-glide?utm_source=tuicool&utm_medium=referral)
 
 ## 网络相关
