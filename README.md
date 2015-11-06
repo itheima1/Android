@@ -19,7 +19,7 @@
 ### 网络图片加载库
 Name | Summary | Description
 --- | --- | --- | ---
-[*Picasso](https://github.com/square/picasso) | Github大神推荐的强大的图片下载和缓存库 | Square 开源的项目,主导者是 JakeWharton.
+[*Picasso](https://github.com/square/picasso) | Github大神推荐的强大的图片下载和缓存库 | Square 开源的项目,主导者是 [JakeWharton](https://github.com/JakeWharton).
 [*Glide](https://github.com/bumptech/glide) | Google推荐的图片加载和缓存的库 | 专注于平滑滚动时的流畅加载, Google开源项目, 2014年Google I/O 上被推荐
 [*Fresco](https://github.com/facebook/fresco) | Facebook推荐的的Android图片加载库 | 自动管理图片的加载和图片的缓存.Facebook 在2015年上半年开源的图片加载库
 [*Android-Universal-Image-Loader](https://github.com/nostra13/Android-Universal-Image-Loader) | 早期广泛使用的开源图片加载库 | 强大又灵活的Android库, 用于加载,缓存,显示图片.
@@ -32,6 +32,6 @@ Name | Summary | Description
 ##### [*开源选型之 Android 三大图片缓存原理、特性对比](http://mp.weixin.qq.com/s?__biz=MzAxNjI3MDkzOQ==&mid=400056342&idx=1&sn=894325d70f16a28bfe8d6a4da31ec304&scene=2&srcid=10210byVbMGLHg7vXUJLgHaR&from=timeline&isappinstalled=0#rd)
 ##### [Android Universal Image Loader 源码分析](http://a.codekk.com/blogs/detail/54cfab086c4761e5001b2540)
 ##### [Android DiskLruCache源码解析硬盘缓存的绝佳方案](http://blog.csdn.net/lmj623565791/article/details/47251585)
-##### [android中图片的三级cache策略（内存、文件、网络](http://blog.csdn.net/singwhatiwanna/article/details/9054001)
+##### [android中图片的三级cache策略（内存、文件、网络）](http://blog.csdn.net/singwhatiwanna/article/details/9054001)
 
 ## 网络相关
