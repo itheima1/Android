@@ -42,7 +42,7 @@
 [*PhotoView](https://github.com/chrisbanes/PhotoView) | 致力于帮助开发者高效的创建可缩放的ImageView | 重写ImageView的实现, 支持多点触摸的图片缩放 star:4705
 [subsampling-scale-image-view](https://github.com/davemorrissey/subsampling-scale-image-view) | 一个Android自定义图片视图, 专为图片画廊设计, 可显示大图(地图, 建筑设计图)等而不造成OutOfMemoryErrors(OOM内存溢出异常) | 丰富的配置选项, 更方便的实现图片的手势缩放, 旋转, 平移. 无损展示大图, 完美的地嵌入画廊, 地图等.star:1137
 [TouchImageView](https://github.com/MikeOrtiz/TouchImageView) | 一个ImageView的拓展类 | 支持ImageView所有功能, 添加了平移, 缩放, 拖拽, 滑动, 双击缩放等动画.star:1252
-[ImageViewZoom](https://github.com/sephiroth74/ImageViewZoom) | https://github.com/sephiroth74/ImageViewZoom | 一个可以缩放, 平移的自定义ImageView控件. star:1080
+[ImageViewZoom](https://github.com/sephiroth74/ImageViewZoom) | 自定义ImageView控件 | 一个可以缩放, 平移的自定义ImageView控件. star:1080
 
 ### 图片加载相关博文
 ##### [Picasso-强大的Android图片下载缓存库](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2014/0731/1639.html)
