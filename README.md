@@ -15,8 +15,8 @@
 * [网络编程](#)`-马上到来`
 
 * [数据处理](#)`-马上到来`
-	- [数据解析/序列化](#)-马上到来
-	- [数据库ORM](#)-马上到来
+	- [数据解析/序列化](#)`-马上到来`
+	- [数据库ORM](#)`-马上到来`
 
 * [自定义控件](#)`-马上到来`
 
@@ -54,10 +54,10 @@
 
 名称 | 概要 | 详情
 --- | --- | --- | ---
-[PinchImageView](https://github.com/boycy815/PinchImageView)|国人写的, 可能是体验最好的图片手势控件，不同分辨率无缝切换，可与ViewPager结合使用。| 支持双击放大，双击缩小,超出边界会回弹, 滑动惯性. star:360
-[GestureViews](https://github.com/alexvasilkov/GestureViews)|包含ImageView的FrameLayout, 支持手势控制和动画| 项目目的是让图片的查看尽可能流畅平滑, 让开发者更加方便地集成到自己的应用中 star:582
+[PinchImageView](https://github.com/boycy815/PinchImageView)|国人写的, 可能是体验最好的图片手势控件| 支持双击放大，双击缩小,超出边界会回弹, 滑动惯性，不同分辨率无缝切换，可与ViewPager结合使用。 star:360
+[GestureViews](https://github.com/alexvasilkov/GestureViews)|包含ImageView的自定义FrameLayout | 项目目的是让图片的查看尽可能流畅平滑, 让开发者更加方便地集成到自己的应用中, 支持手势控制和动画 star:582
 [*PhotoView](https://github.com/chrisbanes/PhotoView) | 致力于帮助开发者高效的创建可缩放的ImageView | 重写ImageView的实现, 支持多点触摸的图片缩放 star:4705
-[subsampling-scale-image-view](https://github.com/davemorrissey/subsampling-scale-image-view) | 一个Android自定义图片视图, 专为图片画廊设计, 可显示大图(地图, 建筑设计图)等而不造成OutOfMemoryErrors(OOM内存溢出异常) | 丰富的配置选项, 更方便的实现图片的手势缩放, 旋转, 平移. 无损展示大图, 完美的地嵌入画廊, 地图等.star:1137
+[subsampling-scale-image-view](https://github.com/davemorrissey/subsampling-scale-image-view) | 一个Android自定义图片视图, 专为图片画廊设计| 丰富的配置选项, 更方便的实现图片的手势缩放, 旋转, 平移. 无损展示大图, 完美的地嵌入画廊, 地图等.可显示大图(地图, 建筑设计图)等而不造成OutOfMemoryErrors(OOM内存溢出异常) star:1137
 [TouchImageView](https://github.com/MikeOrtiz/TouchImageView) | 一个ImageView的拓展类 | 支持ImageView所有功能, 添加了平移, 缩放, 拖拽, 滑动, 双击缩放等动画.star:1252
 [ImageViewZoom](https://github.com/sephiroth74/ImageViewZoom) | 自定义ImageView控件 | 一个可以缩放, 平移的自定义ImageView控件. star:1080
 
