@@ -20,6 +20,8 @@
 
 ### 图片加载库
 
+> (解决网络, 文件, res, assets等图片的获取, 解析, 展示, 缓存等需求...)
+
 名称 | 概要 | 详情
 --- | --- | --- | ---
 [*Picasso](https://github.com/square/picasso) | Github大神推荐的强大的图片下载和缓存库 | Square 开源的项目,主导者是 [JakeWharton](https://github.com/JakeWharton).
@@ -29,9 +31,10 @@
 [Volley](https://github.com/mcxiaoke/android-volley) | 2013年Google I/O推荐的网络通讯框架 | 使用volley加载网络图片，主要用到其中的ImageLoader, NetworkImageView类, 注意它不仅仅是个图片加载库.
 [Cube-sdk](https://github.com/etao-open-source/cube-sdk) | 轻量级的Android开发框架 | 高效方便地加载网络图片, 更简易地处理网络API请求
 
-> (解决网络, 文件, res, assets等图片的获取, 解析, 展示, 缓存等需求...)
-
 ### 图片处理库
+
+> (解决图片缩放, 裁剪, 平移, 旋转等需求)
+
 名称 | 概要 | 详情
 --- | --- | --- | ---
 [PinchImageView](https://github.com/boycy815/PinchImageView)|国人写的, 可能是体验最好的图片手势控件，不同分辨率无缝切换，可与ViewPager结合使用。| 支持双击放大，双击缩小,超出边界会回弹, 滑动惯性. star:360
@@ -40,8 +43,6 @@
 [subsampling-scale-image-view](https://github.com/davemorrissey/subsampling-scale-image-view) | 一个Android自定义图片视图, 专为图片画廊设计, 可显示大图(地图, 建筑设计图)等而不造成OutOfMemoryErrors(OOM内存溢出异常) | 丰富的配置选项, 更方便的实现图片的手势缩放, 旋转, 平移. 无损展示大图, 完美的地嵌入画廊, 地图等.star:1137
 [TouchImageView](https://github.com/MikeOrtiz/TouchImageView) | 一个ImageView的拓展类 | 支持ImageView所有功能, 添加了平移, 缩放, 拖拽, 滑动, 双击缩放等动画.star:1252
 [ImageViewZoom](https://github.com/sephiroth74/ImageViewZoom) | https://github.com/sephiroth74/ImageViewZoom | 一个可以缩放, 平移的自定义ImageView控件. star:1080
-
-> (解决图片缩放, 裁剪, 平移, 旋转等需求)
 
 ### 图片加载相关博文
 ##### [Picasso-强大的Android图片下载缓存库](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2014/0731/1639.html)
