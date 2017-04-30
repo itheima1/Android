@@ -42,7 +42,7 @@
 > (解决网络, 文件, res, assets等图片的获取, 解析, 展示, 缓存等需求...)
 
 名称 | 概要 | 详情
---- | --- | --- | ---
+--- | --- | --- 
 [*Picasso](https://github.com/square/picasso) | Github大神推荐的强大的图片下载和缓存库 | Square 开源的项目,主导者是 [JakeWharton](https://github.com/JakeWharton).
 [*Glide](https://github.com/bumptech/glide) | Google推荐的图片加载和缓存的库 | 专注于平滑滚动时的流畅加载, Google开源项目, 2014年Google I/O 上被推荐
 [*Fresco](https://github.com/facebook/fresco) | Facebook推荐的的Android图片加载库 | 自动管理图片的加载和图片的缓存.Facebook 在2015年上半年开源的图片加载库
@@ -55,7 +55,7 @@
 > (解决图片缩放, 裁剪, 平移, 旋转等需求)
 
 名称 | 概要 | 详情
---- | --- | --- | ---
+--- | --- | --- 
 [PinchImageView](https://github.com/boycy815/PinchImageView)|国人写的, 可能是体验最好的图片手势控件| 支持双击放大，双击缩小,超出边界会回弹, 滑动惯性，不同分辨率无缝切换，可与ViewPager结合使用。 star:360
 [GestureViews](https://github.com/alexvasilkov/GestureViews)|包含ImageView的自定义FrameLayout | 项目目的是让图片的查看尽可能流畅平滑, 让开发者更加方便地集成到自己的应用中, 支持手势控制和动画 star:582
 [*PhotoView](https://github.com/chrisbanes/PhotoView) | 致力于帮助开发者高效的创建可缩放的ImageView | 重写ImageView的实现, 支持多点触摸的图片缩放 star:4705
